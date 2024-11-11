@@ -30,8 +30,8 @@ importers:
         specifier: ^22.8.6
         version: 22.8.6
       astro:
-        specifier: ^4.16.8
-        version: 4.16.8(@types/node@22.8.6)(rollup@4.24.3)(typescript@5.6.3)
+        specifier: ^4.16.10
+        version: 4.16.10(@types/node@22.8.6)(rollup@4.24.3)(typescript@5.6.3)
       get-tsconfig:
         specifier: ^4.8.1
         version: 4.8.1
@@ -58,10 +58,10 @@ importers:
     dependencies:
       '@astrojs/node':
         specifier: ^8.3.4
-        version: 8.3.4(astro@4.16.8(@types/node@22.8.6)(rollup@4.24.3)(typescript@5.6.3))
+        version: 8.3.4(astro@4.16.10(@types/node@22.8.6)(rollup@4.24.3)(typescript@5.6.3))
       astro:
-        specifier: ^4.16.8
-        version: 4.16.8(@types/node@22.8.6)(rollup@4.24.3)(typescript@5.6.3)
+        specifier: ^4.16.10
+        version: 4.16.10(@types/node@22.8.6)(rollup@4.24.3)(typescript@5.6.3)
     devDependencies:
       '@kindspells/astro-shield':
         specifier: workspace:*
@@ -71,10 +71,10 @@ importers:
     dependencies:
       '@astrojs/node':
         specifier: ^8.3.4
-        version: 8.3.4(astro@4.16.8(@types/node@22.8.6)(rollup@4.24.3)(typescript@5.6.3))
+        version: 8.3.4(astro@4.16.10(@types/node@22.8.6)(rollup@4.24.3)(typescript@5.6.3))
       astro:
-        specifier: ^4.16.8
-        version: 4.16.8(@types/node@22.8.6)(rollup@4.24.3)(typescript@5.6.3)
+        specifier: ^4.16.10
+        version: 4.16.10(@types/node@22.8.6)(rollup@4.24.3)(typescript@5.6.3)
     devDependencies:
       '@kindspells/astro-shield':
         specifier: workspace:*
@@ -84,10 +84,10 @@ importers:
     dependencies:
       '@astrojs/node':
         specifier: ^8.3.4
-        version: 8.3.4(astro@4.16.8(@types/node@22.8.6)(rollup@4.24.3)(typescript@5.6.3))
+        version: 8.3.4(astro@4.16.10(@types/node@22.8.6)(rollup@4.24.3)(typescript@5.6.3))
       astro:
-        specifier: ^4.16.8
-        version: 4.16.8(@types/node@22.8.6)(rollup@4.24.3)(typescript@5.6.3)
+        specifier: ^4.16.10
+        version: 4.16.10(@types/node@22.8.6)(rollup@4.24.3)(typescript@5.6.3)
     devDependencies:
       '@kindspells/astro-shield':
         specifier: workspace:*
@@ -97,10 +97,10 @@ importers:
     dependencies:
       '@astrojs/node':
         specifier: ^8.3.4
-        version: 8.3.4(astro@4.16.8(@types/node@22.8.6)(rollup@4.24.3)(typescript@5.6.3))
+        version: 8.3.4(astro@4.16.10(@types/node@22.8.6)(rollup@4.24.3)(typescript@5.6.3))
       astro:
-        specifier: ^4.16.8
-        version: 4.16.8(@types/node@22.8.6)(rollup@4.24.3)(typescript@5.6.3)
+        specifier: ^4.16.10
+        version: 4.16.10(@types/node@22.8.6)(rollup@4.24.3)(typescript@5.6.3)
     devDependencies:
       '@kindspells/astro-shield':
         specifier: workspace:*
@@ -109,8 +109,8 @@ importers:
   '@kindspells/astro-shield/src/e2e/fixtures/static':
     dependencies:
       astro:
-        specifier: ^4.16.8
-        version: 4.16.8(@types/node@22.8.6)(rollup@4.24.3)(typescript@5.6.3)
+        specifier: ^4.16.10
+        version: 4.16.10(@types/node@22.8.6)(rollup@4.24.3)(typescript@5.6.3)
     devDependencies:
       '@kindspells/astro-shield':
         specifier: workspace:*
@@ -125,15 +125,15 @@ importers:
         specifier: 0.33.5
         version: 0.33.5
       sst:
-        specifier: ^3.2.73
-        version: 3.2.73(hono@4.0.1)
+        specifier: ^3.3.18
+        version: 3.3.18(hono@4.0.1)
     devDependencies:
       '@astrojs/check':
         specifier: ^0.9.4
         version: 0.9.4(typescript@5.6.3)
       '@astrojs/starlight':
         specifier: ^0.28.5
-        version: 0.28.5(astro@4.16.8(@types/node@22.8.6)(rollup@4.24.3)(typescript@5.6.3))
+        version: 0.28.5(astro@4.16.10(@types/node@22.8.6)(rollup@4.24.3)(typescript@5.6.3))
       '@astrojs/ts-plugin':
         specifier: ^1.10.4
         version: 1.10.4
@@ -141,8 +141,8 @@ importers:
         specifier: workspace:^
         version: link:../@kindspells/astro-shield
       astro:
-        specifier: ^4.16.8
-        version: 4.16.8(@types/node@22.8.6)(rollup@4.24.3)(typescript@5.6.3)
+        specifier: ^4.16.10
+        version: 4.16.10(@types/node@22.8.6)(rollup@4.24.3)(typescript@5.6.3)
       typescript:
         specifier: ^5.6.3
         version: 5.6.3
@@ -1064,8 +1064,8 @@ packages:
   astro-sst@2.43.5:
     resolution: {integrity: sha512-CWSJO5Kdn7B6CI+qvd82T+ldqaI8y5HeQm4U9dGSSZe+v2KtArac94s2PaE27nxMTLy1JNG101cmyZj+1LhdjA==}
 
-  astro@4.16.8:
-    resolution: {integrity: sha512-BRWFP0UQ8gkOr90KQW7oooedtgCk/j91pyv1WQUmgZwMUZk/v0HJRiddAZgvGCECOnmZFc9ZqRZnBsAMUgApNQ==}
+  astro@4.16.10:
+    resolution: {integrity: sha512-a+nB4bZE50NXHLzVXUHtx/lYct2Aa8kbqZnWNrWqkU97RuhBuWJ5H5/LQbKRnBWGvqChKfJBiMWJe53TY9ieYQ==}
     engines: {node: ^18.17.1 || ^20.3.0 || >=21.0.0, npm: '>=9.6.5', pnpm: '>=7.1.0'}
     hasBin: true
 
@@ -2372,33 +2372,33 @@ packages:
   sprintf-js@1.0.3:
     resolution: {integrity: sha512-D9cPgkvLlV3t3IzL0D0YLvGA9Ahk4PcvVwUbN0dSGr1aP0Nrt4AEnTUbuGvquEC0mA64Gqt1fzirlRs5ibXx8g==}
 
-  sst-darwin-arm64@3.2.73:
-    resolution: {integrity: sha512-UKGIjQH/RDHzhnTfqTOfTQgJ+fkw4e4ZhOMkGeZjkYrSj6H//rDcEgS0KCqT/Da+A9WGQ5783PlPq5x6dcsjiQ==}
+  sst-darwin-arm64@3.3.18:
+    resolution: {integrity: sha512-H5K9eDFXSQrymTCCE8PtiCN6RKv80icmElGj2AwIINxnVUaBcswrIVt5m1BNOfWhWGPPBQNSIHof9pvCEfcKgQ==}
     cpu: [arm64]
     os: [darwin]
 
-  sst-darwin-x64@3.2.73:
-    resolution: {integrity: sha512-9KHuOGY5QsG+ZR4vcp1on/E6pHbZhUtu0HCgswMOv3MqUflJCtUQzD6/MVAPj8WKjVrrpeDsuxF7IX6UE65/Vw==}
+  sst-darwin-x64@3.3.18:
+    resolution: {integrity: sha512-1GFNaMqFGAhaGi6fc/aYWZfuIaQAGJQYUZO3ZHM7qCP3mDJ8Tdbf999FHLE15kkdlsLu95g97GI+Ssd8zyDqig==}
     cpu: [x64]
     os: [darwin]
 
-  sst-linux-arm64@3.2.73:
-    resolution: {integrity: sha512-xDTnk2KqZnnLxrz+DEIjJhx0V/Sru3H6WToe+hVynWM8v9ni3zHWbHef+IqXa7/Woc9QAqgGEiccl92HuDxC7Q==}
+  sst-linux-arm64@3.3.18:
+    resolution: {integrity: sha512-FBWN5rRnt4OOQfXmoM8EJ0OR9lnX/M2/S2GPOZT9tsOQd9aqVqTp5rYdmDHR++Xy8XZvXT2nrXr1ntnpYiSt4g==}
     cpu: [arm64]
     os: [linux]
 
-  sst-linux-x64@3.2.73:
-    resolution: {integrity: sha512-h9lUS4UpJAfnR/+NkLOgfoHnvqYUR3/keitR0tiJITskjT9J6fTdqzYE9hdZVSUZj6S9zj9Zd3JnKYXOR579qQ==}
+  sst-linux-x64@3.3.18:
+    resolution: {integrity: sha512-34T846eri+8qCbwgq0p54OkMonZR6GSDQmmtKJOgV1FirqqRxfIEiiJsmDsU6W1LOShaAYudsxxKYzXFdrwwqA==}
     cpu: [x64]
     os: [linux]
 
-  sst-linux-x86@3.2.73:
-    resolution: {integrity: sha512-wloNzmSHZiiWIhowKFqtzv41Gk6LtvCtWxhl+hl8D1pT3+wTRp9FqD/zkPGDlw5gYUgajowhrRAYnqXoM3JzNA==}
+  sst-linux-x86@3.3.18:
+    resolution: {integrity: sha512-tjFQa4cMHztHk47dvMNTEM9vmA0vzJU0O4Va2A/cUCx4lzUvBSxgAgwoH0lwQ4qkKvMuuMi/IxKxG1d6VReFGw==}
     cpu: [x86]
     os: [linux]
 
-  sst@3.2.73:
-    resolution: {integrity: sha512-PfC1kxCeLujG4iPRtzmbD+b5qkgZ34KQkbIzp/91jzx7YHH4Tmp0HEw2b6XmINb0VhaN1oxjOa0fSX+XMv5KYA==}
+  sst@3.3.18:
+    resolution: {integrity: sha512-wdKkoOrnfgUEp93QFvNmRfYfvX0FCeQv5r7R6hREO6WpTTdX85BJrShO3JKXd8MndnMfv5OeP+PvfLjE3PB1FQ==}
     hasBin: true
     peerDependencies:
       hono: 4.x
@@ -2933,12 +2933,12 @@ snapshots:
     transitivePeerDependencies:
       - supports-color
 
-  '@astrojs/mdx@3.1.9(astro@4.16.8(@types/node@22.8.6)(rollup@4.24.3)(typescript@5.6.3))':
+  '@astrojs/mdx@3.1.9(astro@4.16.10(@types/node@22.8.6)(rollup@4.24.3)(typescript@5.6.3))':
     dependencies:
       '@astrojs/markdown-remark': 5.3.0
       '@mdx-js/mdx': 3.1.0(acorn@8.14.0)
       acorn: 8.14.0
-      astro: 4.16.8(@types/node@22.8.6)(rollup@4.24.3)(typescript@5.6.3)
+      astro: 4.16.10(@types/node@22.8.6)(rollup@4.24.3)(typescript@5.6.3)
       es-module-lexer: 1.5.4
       estree-util-visit: 2.0.0
       gray-matter: 4.0.3
@@ -2953,9 +2953,9 @@ snapshots:
     transitivePeerDependencies:
       - supports-color
 
-  '@astrojs/node@8.3.4(astro@4.16.8(@types/node@22.8.6)(rollup@4.24.3)(typescript@5.6.3))':
+  '@astrojs/node@8.3.4(astro@4.16.10(@types/node@22.8.6)(rollup@4.24.3)(typescript@5.6.3))':
     dependencies:
-      astro: 4.16.8(@types/node@22.8.6)(rollup@4.24.3)(typescript@5.6.3)
+      astro: 4.16.10(@types/node@22.8.6)(rollup@4.24.3)(typescript@5.6.3)
       send: 0.19.1
       server-destroy: 1.0.1
     transitivePeerDependencies:
@@ -2971,15 +2971,15 @@ snapshots:
       stream-replace-string: 2.0.0
       zod: 3.23.8
 
-  '@astrojs/starlight@0.28.5(astro@4.16.8(@types/node@22.8.6)(rollup@4.24.3)(typescript@5.6.3))':
+  '@astrojs/starlight@0.28.5(astro@4.16.10(@types/node@22.8.6)(rollup@4.24.3)(typescript@5.6.3))':
     dependencies:
-      '@astrojs/mdx': 3.1.9(astro@4.16.8(@types/node@22.8.6)(rollup@4.24.3)(typescript@5.6.3))
+      '@astrojs/mdx': 3.1.9(astro@4.16.10(@types/node@22.8.6)(rollup@4.24.3)(typescript@5.6.3))
       '@astrojs/sitemap': 3.2.1
       '@pagefind/default-ui': 1.1.1
       '@types/hast': 3.0.4
       '@types/mdast': 4.0.4
-      astro: 4.16.8(@types/node@22.8.6)(rollup@4.24.3)(typescript@5.6.3)
-      astro-expressive-code: 0.35.6(astro@4.16.8(@types/node@22.8.6)(rollup@4.24.3)(typescript@5.6.3))
+      astro: 4.16.10(@types/node@22.8.6)(rollup@4.24.3)(typescript@5.6.3)
+      astro-expressive-code: 0.35.6(astro@4.16.10(@types/node@22.8.6)(rollup@4.24.3)(typescript@5.6.3))
       bcp-47: 2.1.0
       hast-util-from-html: 2.0.3
       hast-util-select: 6.0.3
@@ -3825,9 +3825,9 @@ snapshots:
 
   astring@1.9.0: {}
 
-  astro-expressive-code@0.35.6(astro@4.16.8(@types/node@22.8.6)(rollup@4.24.3)(typescript@5.6.3)):
+  astro-expressive-code@0.35.6(astro@4.16.10(@types/node@22.8.6)(rollup@4.24.3)(typescript@5.6.3)):
     dependencies:
-      astro: 4.16.8(@types/node@22.8.6)(rollup@4.24.3)(typescript@5.6.3)
+      astro: 4.16.10(@types/node@22.8.6)(rollup@4.24.3)(typescript@5.6.3)
       rehype-expressive-code: 0.35.6
 
   astro-sst@2.43.5:
@@ -3835,7 +3835,7 @@ snapshots:
       '@astrojs/webapi': 3.0.0
       set-cookie-parser: 2.7.1
 
-  astro@4.16.8(@types/node@22.8.6)(rollup@4.24.3)(typescript@5.6.3):
+  astro@4.16.10(@types/node@22.8.6)(rollup@4.24.3)(typescript@5.6.3):
     dependencies:
       '@astrojs/compiler': 2.10.3
       '@astrojs/internal-helpers': 0.4.1
@@ -5705,33 +5705,33 @@ snapshots:
 
   sprintf-js@1.0.3: {}
 
-  sst-darwin-arm64@3.2.73:
+  sst-darwin-arm64@3.3.18:
     optional: true
 
-  sst-darwin-x64@3.2.73:
+  sst-darwin-x64@3.3.18:
     optional: true
 
-  sst-linux-arm64@3.2.73:
+  sst-linux-arm64@3.3.18:
     optional: true
 
-  sst-linux-x64@3.2.73:
+  sst-linux-x64@3.3.18:
     optional: true
 
-  sst-linux-x86@3.2.73:
+  sst-linux-x86@3.3.18:
     optional: true
 
-  sst@3.2.73(hono@4.0.1):
+  sst@3.3.18(hono@4.0.1):
     dependencies:
       aws4fetch: 1.0.20
       jose: 5.2.3
       openid-client: 5.6.4
     optionalDependencies:
       hono: 4.0.1
-      sst-darwin-arm64: 3.2.73
-      sst-darwin-x64: 3.2.73
-      sst-linux-arm64: 3.2.73
-      sst-linux-x64: 3.2.73
-      sst-linux-x86: 3.2.73
+      sst-darwin-arm64: 3.3.18
+      sst-darwin-x64: 3.3.18
+      sst-linux-arm64: 3.3.18
+      sst-linux-x64: 3.3.18
+      sst-linux-x86: 3.3.18
 
   stackback@0.0.2: {}
 
